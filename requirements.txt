@@ -3,3 +3,4 @@ uvicorn
 tortoise-orm
 mysql-connector-python
 pydantic
+psycopg2
