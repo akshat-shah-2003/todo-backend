@@ -17,10 +17,10 @@ app.add_middleware(
 
 # PostgreSQL Database Configuration
 db_config = {
-    "host": "localhost",
+    "host": "dpg-cvv3cqidbo4c73fdg650-a",
     "user": "postgresu",  # Your PostgreSQL username
-    "password": "rootuser1",  # Your PostgreSQL password
-    "database": "todo_db"  # Your PostgreSQL database name
+    "password": "t9RROnumHTv4za5RPkmoHvMi7URB3FoO",  # Your PostgreSQL password
+    "database": "todo_db_0naq"  # Your PostgreSQL database name
 }
 
 class Todo(BaseModel):
